@@ -1,4 +1,5 @@
 🎨 Leon - Modern Agency Template
+
 Leon is a clean, minimal, and fully responsive creative agency template. Designed with a "less is more" philosophy, it focuses on elegant typography and a grid-based layout to showcase work professionally.
 
 Live Demo »
@@ -15,6 +16,7 @@ Portfolio Grid: A clean showcase for projects with filtering-ready styling.
 Clean Code: Well-commented HTML and CSS for easy customization.
 
 🛠️ Built With
+
 HTML5 - Semantic structure.
 
 CSS3 - Custom properties (variables), Flexbox, and CSS Grid.
@@ -24,14 +26,17 @@ Google Fonts - "Work Sans" for modern typography.
 Font Awesome - High-quality vector icons.
 
 🚀 Quick Start
+
 1. Clone the repository
 Bash
 
-git clone https://github.com/mo-eldahshoury/Leon.git
+git clone
+ https://github.com/mo-eldahshoury/Leon.git
 2. Open the project
 Simply open index.html in your favorite browser to view the template locally.
 
 3. Customization
+
 All styling is handled in css/leon.css. I have used CSS Variables at the top of the file so you can change the primary colors globally:
 
 CSS
@@ -42,6 +47,7 @@ CSS
 }
 
 📄 License
+
 This project is open-source and available under the MIT License.
 
 Maintained by Mo Eldahshoury
