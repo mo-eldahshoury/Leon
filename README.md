@@ -2,7 +2,7 @@
 
 Leon is a clean, minimal, and fully responsive creative agency template. Designed with a "less is more" philosophy, it focuses on elegant typography and a grid-based layout to showcase work professionally.
 
-Live Demo »
+Live Demo » https://mo-eldahshoury.github.io/Leon/
 
 ✨ Features
 Fully Responsive: Optimized for desktops, tablets, and mobile devices.
