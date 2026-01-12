@@ -31,7 +31,9 @@ Font Awesome - High-quality vector icons.
 Bash
 
 git clone
+
  https://github.com/mo-eldahshoury/Leon.git
+
 2. Open the project
 Simply open index.html in your favorite browser to view the template locally.
 
