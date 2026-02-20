@@ -1,4 +1,4 @@
-🎨 Leon - Modern Agency Template
+🎨 Leon - Modern Agency Template 
 
 Leon is a clean, minimal, and fully responsive creative agency template. Designed with a "less is more" philosophy, it focuses on elegant typography and a grid-based layout to showcase work professionally.
 
